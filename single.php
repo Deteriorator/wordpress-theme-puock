@@ -45,7 +45,7 @@
                     <div class="footer-info puock-text mt20">
                         <div class="clearfix mt20 t-sm">
                             <div class="float-left">
-                                <span><?php _e('发表于：', PUOCK) ?></span><?php echo get_post_category_link() ?>
+                                <span><?php _e('发表于：', PUOCK) ?></span><?php echo get_post_category_link_exec(true) ?>
                             </div>
                             <div class="float-right">
                                 <span class="c-sub"><?php pk_get_post_date() ?></span>
