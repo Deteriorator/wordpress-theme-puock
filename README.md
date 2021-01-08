@@ -14,18 +14,12 @@
     <a href="https://github.com/Licoy/wordpress-theme-puock">
         <img src="https://img.shields.io/badge/PHP-V7.0+-666699.svg?logo=php&style=for-the-badge" alt="PHP-Version">
       </a>
-     <a href="https://gitee.com/licoy/wordpress-theme-puock">
-        <img src="https://img.shields.io/badge/Gitee-%E7%A0%81%E4%BA%91-CC3333.svg?style=for-the-badge" alt="Gitee">
-      </a>
     <a href="https://github.com/Licoy">
         <img src="https://img.shields.io/badge/author-Licoy-ff69b4.svg?style=for-the-badge" alt="Author">
       </a>
 </div>
 
-## 预览
-> 此为安装了此主题的博客，您可以进行在线预览。
-- [憧憬点滴记忆](https://licoy.cn/)
-## 安装
+## 使用
 请到 [发行版本](https://github.com/Licoy/wordpress-theme-puock/releases) 中进行下载最新版本，然后到WordPress管理后台中的「外观」-「主题」中点击「添加」，选择Puock的主题包进行上传安装并启用即可，**为了防止主题不兼容，请在安装主题前进行数据备份。**
 ## 主题特性
 - [x] 支持白天与暗黑模式
@@ -52,7 +46,8 @@
 ## 文档
 - 食用文档：[立即食用](https://licoy.cn/puock-doc.html)
 - 意见或BUG反馈：[点此进入](https://github.com/Licoy/wordpress-theme-puock/issues)
-- 主题交流群：[347561494](https://qm.qq.com/cgi-bin/qm/qr?k=T5OjCCfKdMRiNyqmqRB_tCfyrBz8R4aS&jump_from=webapi)
+## 支持
+- 若您支持本主题，可以赞赏一杯咖啡给开发者：[立即赞赏](https://licoy.cn/go/zs/)
 ## 趋势
 [![Stargazers over time](https://starchart.cc/Licoy/wordpress-theme-puock.svg)](https://starchart.cc/Licoy/wordpress-theme-puock)
 ## 鸣谢

@@ -20,10 +20,7 @@
       </a>
 </div>
 
-## Preview
-> This is the blog with this theme installed. You can preview it online.
-- [Licoy's Blog](https://www.licoy.cn/)
-## Install
+## Use
 Please go to the [release version](https://github.com/Licoy/wordpress-theme-puock/releases) to download the latest version, and then click "Add" in "Appearance"-"Themes" in the WordPress management background, select Puock's theme package to upload, install and enable it. To prevent theme incompatibility, please Make a data backup before installing the theme.
 ## Theme characteristics
 - [x] Support day and dark mode
@@ -49,6 +46,8 @@ Please go to the [release version](https://github.com/Licoy/wordpress-theme-puoc
 - [x] More features, waiting for your [proposal](https://github.com/Licoy/wordpress-theme-puock/issues)
 ## Documentation
 - Theme edible document: [Eat immediately](https://www.licoy.cn/puock-doc.html)
+## 支持
+- If you support this theme, you can appreciate a cup of coffee to the developer：[ClickMeToEnter](https://licoy.cn/go/zs/)
 ## Thanks
 [Jetbrains](https://www.jetbrains.com/?from=wordpress-theme-puock)
 ## License
